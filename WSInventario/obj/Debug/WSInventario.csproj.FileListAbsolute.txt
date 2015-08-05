@@ -1,0 +1,5 @@
+C:\Users\workstation\documents\visual studio 2010\Projects\WSInventario\WSInventario\bin\WSInventario.dll
+C:\Users\workstation\documents\visual studio 2010\Projects\WSInventario\WSInventario\bin\WSInventario.pdb
+C:\Users\workstation\documents\visual studio 2010\Projects\WSInventario\WSInventario\obj\Debug\WSInventario.csprojResolveAssemblyReference.cache
+C:\Users\workstation\documents\visual studio 2010\Projects\WSInventario\WSInventario\obj\Debug\WSInventario.dll
+C:\Users\workstation\documents\visual studio 2010\Projects\WSInventario\WSInventario\obj\Debug\WSInventario.pdb
